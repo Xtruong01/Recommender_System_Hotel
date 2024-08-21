@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.recommendation.ALSModel","timestamp":1724219239320,"sparkVersion":"3.5.1","uid":"ALS_3b5ff13773b1","paramMap":{"itemCol":"Hotel ID","blockSize":4096,"userCol":"Reviewer ID","coldStartStrategy":"drop"},"defaultParamMap":{"itemCol":"item","blockSize":4096,"userCol":"user","coldStartStrategy":"nan","predictionCol":"prediction"},"rank":25}
